@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on DevOps
 - 🤔 I’m looking for help with Information Security & DevOps
 - 💬 Ask me about Security Engineering
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/k3vs3c)
+- 📫 How to reach me: ![LinkedIn](www.linkedin.com/in/k3vs3c)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm just getting started ;)
 
